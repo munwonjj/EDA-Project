@@ -5,7 +5,7 @@ Exploratory Data Analysis Project with visualization using New York MTA dataset
 ## Goal 
 
 The goal of this project is to utilize MTA turnstile data to investigate the change in ridership throughout different commuting times during/pre covid period.
-January to April dataset from both 2018 and 2021 was respectively used to compare the ridership change pre covid and during covid. These dataset was used to identify popular stations throughout different time of the day. SQL was used to generate a database and Python was mainly used for data manipulation and visualziation.
+January to April dataset from both 2018 and 2021 was respectively used which were grouped, aggregated, and merged for data manipulation. These dataset was used to identify popular stations throughout different time of the day. SQL was used to generate a database and Python was mainly used for data manipulation and visualziation.
 
 ## Data
 
